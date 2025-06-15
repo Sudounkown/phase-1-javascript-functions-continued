@@ -16,5 +16,5 @@ function wrapAdjective(flair = "*"){
         return `You are ${flair}${adjective}${flair}!`}
     }
 
-    console.log(wrapAdjective("*")("the slayer"))
+    console.log(wrapAdjective("🔫")("the DOOM slayer"))
 
